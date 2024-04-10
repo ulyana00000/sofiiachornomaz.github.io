@@ -1,7 +1,7 @@
 .u-section-1 .u-sheet-1 {
   min-height: 561px;
 }
-
+/* i change it */
 .u-section-1 .u-repeater-1 {
   margin-top: 60px;
   margin-bottom: 60px;
@@ -10,7 +10,6 @@
   height: auto;
   grid-gap: 22px;
 }
-
 .u-section-1 .u-repeater-item-1 {
   background-image: none;
 }
